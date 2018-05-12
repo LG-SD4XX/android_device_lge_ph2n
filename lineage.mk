@@ -25,15 +25,7 @@ $(call inherit-product, device/lge/ph2n/device.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Set those variables here to overwrite the inherited values.
-BOARD_VENDOR := lge
 PRODUCT_DEVICE := ph2n
 PRODUCT_NAME := lineage_ph2n
-PRODUCT_BRAND := lge
-PRODUCT_MODEL := LG Stylo 2 Plus
-PRODUCT_MANUFACTURER := lge
 
 PRODUCT_GMS_CLIENTID_BASE := android-lge
-
-PRODUCT_BUILD_PROP_OVERRIDES += \
-    BUILD_FINGERPRINT="MetroPCS/ph2n_mpcs_us/ph2n:7.1.2/NRD90U/171071514d722:user/release-keys" \
-    PRIVATE_BUILD_DESC="ph2n_mpcs_us-user 7.1.2 NRD90U 171071514d722 release-keys"
