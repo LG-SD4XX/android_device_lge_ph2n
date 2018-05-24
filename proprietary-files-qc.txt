@@ -108,9 +108,6 @@ vendor/lib64/libaudioalsa.so
 vendor/lib64/libaudiodevarb.so
 vendor/lib64/libhwdaphal.so
 
-# Blur
-vendor/lib64/libuiblur.so
-
 # CNE
 -priv-app/CNEService/CNEService.apk
 bin/cnd
