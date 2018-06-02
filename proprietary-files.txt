@@ -407,7 +407,6 @@ vendor/firmware/libpn548ad_fw.so
 
 # Sensor
 bin/sensors.qcom
-etc/sap.conf
 vendor/lib/hw/activity_recognition.msm8937.so
 vendor/lib/libsensor1.so
 vendor/lib/libsensor_lge_cal.so
