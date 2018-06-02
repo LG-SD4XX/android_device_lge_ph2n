@@ -409,19 +409,12 @@ vendor/firmware/libpn548ad_fw.so
 bin/sensors.qcom
 vendor/lib/hw/activity_recognition.msm8937.so
 vendor/lib/libsensor1.so
-vendor/lib/libsensor_lge_cal.so
 vendor/lib/libsensor_reg.so
-vendor/lib/libsensor_test.so
-vendor/lib/libsensor_thresh.so
-vendor/lib/libsensor_user_cal.so
-vendor/lib/libSubSystemShutdown.so
-vendor/lib/libsubsystem_control.so
 vendor/lib/sensors.ssc.so
 vendor/lib/sensor_calibrate.so
 vendor/lib64/hw/activity_recognition.msm8937.so
 vendor/lib64/libsensor1.so
 vendor/lib64/libsensor_reg.so
-vendor/lib64/libsubsystem_control.so
 vendor/lib64/sensors.ssc.so
 vendor/lib64/sensor_calibrate.so
 
